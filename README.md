@@ -6,8 +6,8 @@
 
 ### 📜 Patent & Academic Status
 - **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0144385 호`)
-- **Academic Status:** 글로벌 딥테크 연산 가속 학술지 정식 투고 및 심사 중
-- **Digital Object Identifier:** 글로벌 고유 DOI 및 검증용 통계 데이터셋 박제 완료
+- **Academic Status:** 글로벌 테크니컬 백서(Technical Whitepaper) 패키징 및 학술 보도 준비 중
+- **Verification Dataset:** 10회 다중 실행(Multi-run) 검증용 정량 통계 데이터셋 내부 보존 및 검증 완료
 
 ---
 
