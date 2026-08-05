@@ -5,7 +5,7 @@
 ---
 
 ### 📜 Patent & Academic Status
-- **Patent Status:** 대한민국 특허청(KIPO) **독점 원천 기술 특허 출원 완료** (명세서 및 실전 소스코드 패키지 동시 제출 완료)
+- **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0144385 호`)
 - **Academic Status:** 글로벌 딥테크 연산 가속 학술지 정식 투고 및 심사 중
 - **Digital Object Identifier:** 글로벌 고유 DOI 및 검증용 통계 데이터셋 박제 완료
 
