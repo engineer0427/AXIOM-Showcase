@@ -85,16 +85,12 @@ experiments/logs/scaling_run_[timestamp]/
 
 ---
 
-## 💼 Intellectual Property (IP) Licensing Model
+💼 Intellectual Property & Custody Architecture
 
-본 프로젝트의 상업적 권리와 글로벌 라이선싱 비즈니스는 **원천기술 IP 라이선서 '란더(Landauer)'**에 의해 독점 관리 및 보호됩니다.
-- **Licensing Architecture:** 파트너사에게는 각 산업군(반도체 EDA 라우팅, 물류망 최적화, 배터리 셀 추적 등) 환경에 맞춤 빌드된 **암호화된 블랙박스 라이브러리(Compiled C++ SDK / Compiled Binary)** 형태로 IP가 공급됩니다.
-- **Revenue Framework:** 글로벌 업계 표준 규격에 기반한 가치 공유형 **러닝 로열티 및 미니멈 개런티(MG)** 구조 적용.
+본 원천 아키텍처의 글로벌 상업적 권리 및 IP 자산은 **메타 IP 라이선서 '란더(Landauer)'**에 의해 독점 관리됩니다.
+* **IP Custody & Protection:** 핵심 자산 및 방법론의 무단 유출을 원천 차단하기 위해, 모든 지식재산권은 **기술보증기금(KIBO) IP 신탁 시스템**을 통해 투명하고 안전하게 법적 보호 및 관리됩니다.
+* **Licensing Model:** 원천 소스코드 및 핵심 로직은 완전히 비공개로 유지되며, 글로벌 파트너사와의 엄격한 **비독점 라이선싱(Non-Exclusive Licensing)**을 통해 각 타겟 도메인 환경에 독립적으로 이식 및 연동되는 **보호된 방법론 아키텍처 및 시스템 블루프린트 IP (Protected Methodology Architecture / Systemic Blueprint IP)**를 안전하게 공급합니다.
 
 ---
 
 *If you find the AXIOM DIA solver insightful to the next-gen high-efficiency computing era, please **star** this repository to support our research!*
-
----
-
-*Copyright © 2026 Landauer. All rights reserved. Registered Patents Pending.*
